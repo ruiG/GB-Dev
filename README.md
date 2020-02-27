@@ -3,7 +3,7 @@ Gameboy game development with C
 
 ## SDK
 
-This set of tutorial use GBDK 
+This set of tutorials use GBDK 
 
 http://gbdk.sourceforge.net/
 
